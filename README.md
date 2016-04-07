@@ -12,3 +12,4 @@ I want to give a specila thanks to Nigel to help me out in the smallWorld projec
 [blend](https://github.com/DolaPham97/smallWorld/blob/master/APpanel.java#L108)
 4. Connect all of the objects' pathways together in the order
 [main](https://github.com/DolaPham97/smallWorld/blob/master/AllPaths.java#L42)
+5. I'm also added the javadoc of the file smallWorld
